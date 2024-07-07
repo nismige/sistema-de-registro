@@ -5,3 +5,5 @@
 Para ejecutar el sistema, debes poner: 
 
 ```npmi nstall react```
+
+Sistema de registro 2
